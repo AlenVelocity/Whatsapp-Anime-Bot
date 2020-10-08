@@ -28,7 +28,7 @@ npm start
 |Scrap Subreddits|
 
 |Admin Side|
-|:---------:|
+|:------------------------:|
 |Kick Members|
 |Promote Members|
 |Demote Members|
