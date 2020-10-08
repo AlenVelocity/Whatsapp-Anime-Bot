@@ -1,3 +1,9 @@
+
+<p align="center">
+<img src="https://wallpapermemory.com/uploads/730/emilia-re-zero-wallpaper-full-hd-1920x1080-158894.jpg" width="512" height="512"/>
+</p>
+
+
 <h1 align="center">Welcome to Whatsapp Anime Bot 👋</h1>
 
 > An anime bot for whatsapp built using open-wa/wa-automate
