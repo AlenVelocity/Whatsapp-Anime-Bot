@@ -18,7 +18,7 @@ npm start
 
 
 | User Side |
---------------
+|:---------:|
 |Convert Images into stickers|
 |Convert Videos into stickers [lossless]|
 |Give anime info|
@@ -28,7 +28,7 @@ npm start
 |Scrap Subreddits|
 
 |Admin Side|
--------------
+|:---------:|
 |Kick Members|
 |Promote Members|
 |Demote Members|
@@ -36,12 +36,12 @@ npm start
 |Ping all group memebrs|
 
 |Bot Admin Side|
-----------------
+|:---------:|
 |Ban Users|
 |Unban Users|
 
 |Toggles|
-----------
+|:---------:|
 |Welcome|
 |NSFW|
 
