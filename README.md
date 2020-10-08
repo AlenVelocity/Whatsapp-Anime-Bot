@@ -38,6 +38,16 @@
 | Display User profile          | #profile          | Everyone |
 
 
+### Poll commands 
+ 
+| Action            | Command            | Acess       |
+|:-----------------:|:------------------:|:-----------:|
+| Create/Reset Poll | #resetpoll title   | Admins      |
+| Add Candidates    | #add candidate name| Admins      |
+| Vote              | #vote candidate no | Everyone    |
+| see the status/result | #poll          | Everyone    |
+
+
 ### Random results
 
 | Command | Result |
