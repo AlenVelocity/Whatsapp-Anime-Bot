@@ -44,4 +44,3 @@ Copyright © 2020 [Ban Takahiro](https://github.com/AlenSaito1).<br />
 This project is [GNU](https://github.com/AlenSaito1/Whatsapp-Anime-Bot/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
