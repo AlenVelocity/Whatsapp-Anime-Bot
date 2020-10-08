@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AlenSaito1/Whatsapp-Anime-Bot/master/media/images/emilia-re-zero-wallpaper-full-hd-1920x1080-158894.jpg" width="640" height="480"/>
-</p>
 
 
 <h1 align="center">Welcome to Whatsapp Anime Bot 👋</h1>
