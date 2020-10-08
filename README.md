@@ -29,7 +29,7 @@
 | Scrap Subreddits [image based]| #sr subreddit     | Everyone |
 | Translate Text                | #translate [quote]| Everyone |
 | Display Covid 19 Info         | #covid country    | Everyone |
-| Make quotes                   | #quotemaker |q|a  | Everyone | 
+| Make quotes                   | #quotemaker       | Everyone | 
 | Toggle NSFW                   | #act nsfw         | Admins   |
 | Greet new members             | #act welcome      | Admins   |
 | Mention all group members     | #ping text        | Admins   |
