@@ -28,12 +28,6 @@ npm install
 npm run start
 ```
 
-## Run tests
-
-```sh
-GNU
-```
-
 ## Author
 
 👤 **Ban Takahiro**
