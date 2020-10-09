@@ -89,11 +89,20 @@ After installing the pakages, run this command and scan the QR code which comes 
 npm run 
 ```
 
-## Author
+## Authors
 
 👤 **Ban Takahiro**
 
 * Github: [@AlenSaito1](https://github.com/AlenSaito1)
+
+👤 **Shubham Badgujar**
+
+* Github: [@shubham8550](https://github.com/shubham8550)
+
+👤 **MhankBarBar**
+
+* Github: [@MhankBarBar](https://github.com/MhankBarBar)
+
 
 
 Give a ⭐️ if this project helped you!
