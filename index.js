@@ -47,21 +47,6 @@ const startServer = async (client) => {
         client.onGlobalParicipantsChanged((event) => {
             welcome(client, event)
         }) 
-
-
-
-
-           /* const groupchat = event.chat
-           const wel = JSON.parse(fs.readFileSync('./lib/welcome.json'))
-           const iswel = wel.includes(event.chat)
-       if (event.action === 'add') {
-           if (iswel == true) {
-           let contactw = getContact(event.who)
-           const contactname = contactw.formattedName
-           const chatname = chat.formattedTitle
-           client.sendTextWithMentions(event.chat, `Hello There, Welcome to ${event.chat.name}! @${event.who.replace('@c.us', '')} \n\nHave fun with us✨`).then(() => client.sendFileFromUrl(event.chat, `https://dynamage.herokuapp.com/api?id=bB4KjNVyeinm55pDZ2E4TMqJv&width=1366&height=768&var1=${chatname}&var2=${contactname}`, 'welcome.png')) 
-        
-        }) */
         
         client.onAddedToGroup((chat) => {
             let totalMem = chat.groupMetadata.participants.length
