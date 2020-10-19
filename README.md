@@ -1,4 +1,4 @@
-<h1 align="center">Whatsapp Anime Bot 👋</h1>
+<h1 align="center">Whatsapp Anime Bot 👋 [Not Maintained!]</h1>
 
 
 <p align="center">
