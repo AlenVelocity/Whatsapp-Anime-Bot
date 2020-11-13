@@ -104,7 +104,7 @@ npm run
 
 
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you yeah!
 
 ## 📝 License
 
