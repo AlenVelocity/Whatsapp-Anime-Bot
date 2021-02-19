@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "node test.js"
   },
-  "author": "Ban Takahiro",
+  "author": "Ban afz",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^2.0.28",
